@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I am currently working in Central Banking 
-## I am studying part time towards a Master in Artificial Intelligence and Data Science 
+- I am currently working in Central Banking 
+- I am studying part time towards a Master in Artificial Intelligence and Data Science 
 
 <!--
 **doinasv/doinasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
